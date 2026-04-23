@@ -18,4 +18,3 @@ Format: `[TLD] Opis zmiany`
 - `[PL]` Pierwszy publiczny szablon dla Poland
 - `[TR]` Pierwszy publiczny szablon dla Turkey
 - `[UK]` Pierwszy publiczny szablon dla United Kingdom
-- 
